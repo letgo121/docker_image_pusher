@@ -1,3 +1,4 @@
 nginx
 openjdk:8-jdk-alpine
 alpine
+mariadb:10 
