@@ -1,4 +1,6 @@
 nginx
 openjdk:8-jdk-alpine
 alpine
-mariadb:10 
+mariadb:10
+redis:7.2.5
+bitnami/kafka:3.3.2
