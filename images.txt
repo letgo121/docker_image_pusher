@@ -5,3 +5,4 @@ mariadb:10
 redis:7.2.5
 bitnami/kafka:3.3.2
 portainer/portainer-ce:2.20.3
+eipwork/kuboard-agent:v3
